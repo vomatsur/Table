@@ -1,0 +1,44 @@
+table, th, td{
+    border: 2px solid blue;
+    text-align: center;
+
+}
+caption{
+    background-color: aqua;
+}
+th{
+    background-color: yellow;
+    
+}
+.te1{
+    background-color: slategray;
+    height: 1cm;
+    width: 1cm;
+    color: black;
+}
+.te2{
+    background-color: red;
+    height: 1cm;
+    width: 5cm;
+    color: white;
+}
+td{
+    background-color: green;
+    height: 1cm;
+    width: 4cm;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
